@@ -31,7 +31,7 @@ const App = () => {
             users.length == 0 ?
               (
                 <tr style={{ width: "100%" }}>
-                  <td colSpan="4" style={{ border: "none", textAlign: "center" }}>No data found to display</td>
+                  <td colSpan="4" style={{ border: "none", textAlign: "center" }}>No data found to display.</td>
                 </tr>
               )
               :
